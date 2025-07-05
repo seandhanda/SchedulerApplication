@@ -1,4 +1,4 @@
-<h1><strong>Dynamic Workflow Management System</strong></h1>
+<h1><strong>StudyFlow</strong></h1>
 
 <h2>A SOLUTION TO MISSED DEADLINES</h2>
 
