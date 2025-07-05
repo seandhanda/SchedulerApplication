@@ -1,4 +1,4 @@
-<h1><strong>TO-DO LIST APPLICATION!</strong></h1>
+<h1><strong>Scheduler Application</strong></h1>
 
 <h2>A SOLUTION TO MISSED DEADLINES</h2>
 
